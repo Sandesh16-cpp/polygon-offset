@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/home/runner/work/polygon-offset/polygon-offset/build/tests",
+  "command": "/usr/bin/c++  -I/home/runner/work/polygon-offset/polygon-offset/include -std=c++20 -Wall -Wextra -Wpedantic -Werror -march=native -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/polygon_offset_tests.dir/test_point.cpp.o -c /home/runner/work/polygon-offset/polygon-offset/tests/test_point.cpp",
+  "file": "/home/runner/work/polygon-offset/polygon-offset/tests/test_point.cpp",
+  "output": "tests/CMakeFiles/polygon_offset_tests.dir/test_point.cpp.o"
+},
+{
+  "directory": "/home/runner/work/polygon-offset/polygon-offset/build/tests",
+  "command": "/usr/bin/c++  -I/home/runner/work/polygon-offset/polygon-offset/include -std=c++20 -Wall -Wextra -Wpedantic -Werror -march=native -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/polygon_offset_tests.dir/test_edge.cpp.o -c /home/runner/work/polygon-offset/polygon-offset/tests/test_edge.cpp",
+  "file": "/home/runner/work/polygon-offset/polygon-offset/tests/test_edge.cpp",
+  "output": "tests/CMakeFiles/polygon_offset_tests.dir/test_edge.cpp.o"
+},
+{
+  "directory": "/home/runner/work/polygon-offset/polygon-offset/build/tests",
+  "command": "/usr/bin/c++  -I/home/runner/work/polygon-offset/polygon-offset/include -std=c++20 -Wall -Wextra -Wpedantic -Werror -march=native -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/polygon_offset_tests.dir/test_offset.cpp.o -c /home/runner/work/polygon-offset/polygon-offset/tests/test_offset.cpp",
+  "file": "/home/runner/work/polygon-offset/polygon-offset/tests/test_offset.cpp",
+  "output": "tests/CMakeFiles/polygon_offset_tests.dir/test_offset.cpp.o"
+},
+{
+  "directory": "/home/runner/work/polygon-offset/polygon-offset/build/tests",
+  "command": "/usr/bin/c++  -I/home/runner/work/polygon-offset/polygon-offset/include -std=c++20 -Wall -Wextra -Wpedantic -Werror -march=native -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/polygon_offset_tests.dir/test_main.cpp.o -c /home/runner/work/polygon-offset/polygon-offset/tests/test_main.cpp",
+  "file": "/home/runner/work/polygon-offset/polygon-offset/tests/test_main.cpp",
+  "output": "tests/CMakeFiles/polygon_offset_tests.dir/test_main.cpp.o"
+},
+{
+  "directory": "/home/runner/work/polygon-offset/polygon-offset/build/examples",
+  "command": "/usr/bin/c++  -I/home/runner/work/polygon-offset/polygon-offset/include -std=c++20 -Wall -Wextra -Wpedantic -Werror -march=native -o CMakeFiles/basic_example.dir/basic_example.cpp.o -c /home/runner/work/polygon-offset/polygon-offset/examples/basic_example.cpp",
+  "file": "/home/runner/work/polygon-offset/polygon-offset/examples/basic_example.cpp",
+  "output": "examples/CMakeFiles/basic_example.dir/basic_example.cpp.o"
+},
+{
+  "directory": "/home/runner/work/polygon-offset/polygon-offset/build/examples",
+  "command": "/usr/bin/c++  -I/home/runner/work/polygon-offset/polygon-offset/include -std=c++20 -Wall -Wextra -Wpedantic -Werror -march=native -o CMakeFiles/performance_example.dir/performance_example.cpp.o -c /home/runner/work/polygon-offset/polygon-offset/examples/performance_example.cpp",
+  "file": "/home/runner/work/polygon-offset/polygon-offset/examples/performance_example.cpp",
+  "output": "examples/CMakeFiles/performance_example.dir/performance_example.cpp.o"
+}
+]

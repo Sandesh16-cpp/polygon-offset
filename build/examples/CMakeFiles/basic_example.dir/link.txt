@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/basic_example.dir/link.d CMakeFiles/basic_example.dir/basic_example.cpp.o -o basic_example

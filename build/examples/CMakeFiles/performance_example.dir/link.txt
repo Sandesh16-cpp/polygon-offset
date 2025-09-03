@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/performance_example.dir/link.d CMakeFiles/performance_example.dir/performance_example.cpp.o -o performance_example

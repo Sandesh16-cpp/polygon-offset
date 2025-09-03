@@ -1,0 +1,5 @@
+if(EXISTS "/home/runner/work/polygon-offset/polygon-offset/build/tests/polygon_offset_tests[1]_tests.cmake")
+  include("/home/runner/work/polygon-offset/polygon-offset/build/tests/polygon_offset_tests[1]_tests.cmake")
+else()
+  add_test(polygon_offset_tests_NOT_BUILT polygon_offset_tests_NOT_BUILT)
+endif()
