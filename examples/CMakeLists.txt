@@ -1,0 +1,5 @@
+add_executable(basic_example basic_example.cpp)
+target_link_libraries(basic_example PRIVATE polygon_offset)
+
+add_executable(performance_example performance_example.cpp)
+target_link_libraries(performance_example PRIVATE polygon_offset)
